@@ -1,7 +1,5 @@
-# We've Moved! ➡️
+# @serverless-stack ➡️ [@sst](https://github.com/sst)
 
-**@serverless-stack** is now **[@sst](https://github.com/sst)**.
+We've moved! Follow our new profile: **[@sst](https://github.com/sst)**
 
-Please visit and follow us at our new profile: **[@sst](https://github.com/sst)** for updates.
-
-We hope to see you there!
+We'll see you there!
