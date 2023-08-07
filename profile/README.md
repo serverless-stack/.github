@@ -1,4 +1,4 @@
-# We've Moved! 🚀
+# We've Moved! ➡️
 
 **@serverless-stack** is now **[@sst](https://github.com/sst)**.
 
